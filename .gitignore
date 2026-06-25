@@ -1,0 +1,4 @@
+grade_system
+*.o
+*.out
+.DS_Store
